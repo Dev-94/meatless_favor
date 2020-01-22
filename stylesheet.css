@@ -1,0 +1,23 @@
+html {
+    background-color: lightgrey;
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-color: white;
+    margin: auto 25%;
+    
+}
+
+
+.meatless {
+    height: 600px;
+    width:  600px;
+    background-color: aquamarine;
+    margin: auto;
+}
+
+footer {
+    background-color: lightgrey;
+}
