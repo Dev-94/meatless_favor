@@ -10,14 +10,57 @@ body {
     
 }
 
+h1 {
+    color: turquoise;
+}
 
 .meatless {
     height: 600px;
-    width:  600px;
+    width:  auto;
     background-color: aquamarine;
     margin: auto;
 }
 
+.banner {
+    height: 100px;
+    width:  auto;
+    background-color: blue;
+    margin: auto;
+    font-size: 300%;
+    color: white;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: grey;
+}
+
+.restaurants {
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    width:  auto;
+    background-color: red;
+    margin: 10%;
+    padding: 10%;
+    font-size: 150%;
+
+}
+
+.veggies {
+    color: white;
+    background-color: turquoise;
+    height: 75px;
+    width: 300px;
+    font-size: 20px;
+}
+
+
 footer {
     background-color: lightgrey;
+    margin: auto;
+
 }
